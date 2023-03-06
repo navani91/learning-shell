@@ -14,3 +14,4 @@ xyz() {
 ## Call a function
 
 xyz 123 456
+echo value of b - $b
