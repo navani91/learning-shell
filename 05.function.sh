@@ -12,6 +12,6 @@ xyz() {
 
 ## Main program
 ## Call a function
-
+a=120
 xyz 123 456
 echo value of b - $b
